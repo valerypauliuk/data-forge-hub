@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T10:39:16.291Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="N9OAg6AYYFHgdTJTovcJ" version="24.0.1" type="device">
+  <diagram name="Страница — 1" id="B6FBKHuV94_GKxNPBKY9">
+    <mxGraphModel dx="1941" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="40" width="860" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5Mc-lEU1AfDtlCWMdxh-1" target="Z5Mc-lEU1AfDtlCWMdxh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-1" value="Python&amp;nbsp;&lt;br&gt;Faker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5Mc-lEU1AfDtlCWMdxh-2" target="Z5Mc-lEU1AfDtlCWMdxh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="60" width="146" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z5Mc-lEU1AfDtlCWMdxh-3" target="Z5Mc-lEU1AfDtlCWMdxh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-3" value="ClickHouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5Mc-lEU1AfDtlCWMdxh-4" target="Z5Mc-lEU1AfDtlCWMdxh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-4" value="postgresql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-6" value="Airflow&lt;br&gt;Docker&lt;br&gt;Kubernetes&lt;br&gt;EKL&lt;br&gt;CI/CD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z5Mc-lEU1AfDtlCWMdxh-2" target="Z5Mc-lEU1AfDtlCWMdxh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-11" value="ETL&amp;nbsp;&lt;br&gt;Python" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-12" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-13" value="DBT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-14" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5Mc-lEU1AfDtlCWMdxh-15" value="BI" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
